@@ -33,7 +33,7 @@ def compute_perplexity(loss):
     return float(np.exp(loss)) if loss < 100 else float("inf")
 
 def main(tokenized="data/tokenized_dataset.npz", model_name="gpt2", model_dir="saved_model/gpt2_cinema",
-         batch_size=8, lr=5e-5, epochs=3):
+         batch_size=8, lr=5e-5, epochs=4):
     os.makedirs(model_dir, exist_ok=True)
     tokenizer = GPT2Tokenizer.from_pretrained(model_name)
     if tokenizer.pad_token is None:
