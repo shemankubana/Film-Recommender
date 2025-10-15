@@ -1,0 +1,6 @@
+streamlit
+transformers
+tensorflow
+python-dotenv
+requests
+accelerate
