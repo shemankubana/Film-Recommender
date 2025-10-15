@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "1038392_dir",
+    "user_input": "who directed the conjuring: last rites?",
+    "bot_response": "the conjuring: last rites was directed by michael chaves."
+  },
+  {
+    "id": "1038392_cast",
+    "user_input": "who starred in the conjuring: last rites?",
+    "bot_response": "the main cast includes vera farmiga, patrick wilson, mia tomlinson, ben hardy, rebecca calder."
+  },
+  {
+    "id": "1038392_year",
+    "user_input": "when was the conjuring: last rites released?",
+    "bot_response": "the conjuring: last rites was released in 2025."
+  },
+  {
+    "id": "1038392_rec",
+    "user_input": "recommend a movie like the conjuring: last rites.",
+    "bot_response": "if you liked the conjuring: last rites, you might enjoy the long walk, the lost bus, one battle after another."
+  },
+  {
+    "id": "1086910_dir",
+    "user_input": "who directed the lost princess?",
+    "bot_response": "the lost princess was directed by hicham hajji."
+  },
+  {
+    "id": "1086910_cast",
+    "user_input": "who starred in the lost princess?",
+    "bot_response": "the main cast includes cillian o'sullivan, gary dourdan, robert knepper, soraya azzabi, eric roberts."
+  },
+  {
+    "id": "1086910_year",
+    "user_input": "when was the lost princess released?",
+    "bot_response": "the lost princess was released in 2025."
+  },
+  {
+    "id": "1311031_dir",
+    "user_input": "who directed demon slayer: kimetsu no yaiba infinity castle?",
+    "bot_response": "demon slayer: kimetsu no yaiba infinity castle was directed by haruo sotozaki."
+  },
+  {
+    "id": "1311031_cast",
+    "user_input": "who starred in demon slayer: kimetsu no yaiba infinity castle?",
+    "bot_response": "the main cast includes natsuki hanae, hiro shimono, takahiro sakurai, akira ishida, yoshitsugu matsuoka."
+  },
+  {
+    "id": "1311031_year",
+    "user_input": "when was demon slayer: kimetsu no yaiba infinity castle released?",
+    "bot_response": "demon slayer: kimetsu no yaiba infinity castle was released in 2025."
+  },
+  {
+    "id": "1311031_rec",
+    "user_input": "recommend a movie like demon slayer: kimetsu no yaiba infinity castle.",
+    "bot_response": "if you liked demon slayer: kimetsu no yaiba infinity castle, you might enjoy war of the worlds, night carnage, one battle after another."
+  },
+  {
+    "id": "755898_dir",
+    "user_input": "who directed war of the worlds?",
+    "bot_response": "war of the worlds was directed by rich lee."
+  },
+  {
+    "id": "755898_cast",
+    "user_input": "who starred in war of the worlds?",
+    "bot_response": "the main cast includes ice cube, eva longoria, clark gregg, iman benson, henry hunter hall."
+  },
+  {
+    "id": "755898_year",
+    "user_input": "when was war of the worlds released?",
+    "bot_response": "war of the worlds was released in 2025."
+  },
+  {
+    "id": "755898_rec",
+    "user_input": "recommend a movie like war of the worlds.",
+    "bot_response": "if you liked war of the worlds, you might enjoy night carnage, demon slayer: kimetsu no yaiba infinity castle, jurassic world rebirth."
+  },
+  {
+    "id": "338969_dir",
+    "user_input": "who directed the toxic avenger unrated?",
+    "bot_response": "the toxic avenger unrated was directed by macon blair."
+  },
+  {
+    "id": "338969_cast",
+    "user_input": "who starred in the toxic avenger unrated?",
+    "bot_response": "the main cast includes peter dinklage, jacob tremblay, taylour paige, julia davis, jonny coyne."
+  },
+  {
+    "id": "338969_year",
+    "user_input": "when was the toxic avenger unrated released?",
+    "bot_response": "the toxic avenger unrated was released in 2025."
+  },
+  {
+    "id": "338969_rec",
+    "user_input": "recommend a movie like the toxic avenger unrated.",
+    "bot_response": "if you liked the toxic avenger unrated, you might enjoy rabbit trap, the last winter, snoopy presents: a summer musical."
+  },
+  {
+    "id": "1186350_dir",
+    "user_input": "who directed marco?",
+    "bot_response": "marco was directed by haneef adeni."
+  },
+  {
+    "id": "1186350_cast",
+    "user_input": "who starred in marco?",
+    "bot_response": "the main cast includes unni mukundan, siddique, ishan shoukath, jagadish, abhimanyu thilakan."
+  },
+  {
+    "id": "1186350_year",
+    "user_input": "when was marco released?",
+    "bot_response": "marco was released in 2024."
+  },
+  {
+    "id": "1186350_rec",
+    "user_input": "recommend a movie like marco.",
+    "bot_response": "if you liked marco, you might enjoy the roundup: punishment, azaad, singham again."
+  },
+  {
+    "id": "793387_dir",
+    "user_input": "who directed holy night: demon hunters?",
+    "bot_response": "holy night: demon hunters was directed by lim dae-hee."
+  },
+  {
+    "id": "793387_cast",
+    "user_input": "who starred in holy night: demon hunters?",
+    "bot_response": "the main cast includes don lee, seohyun, david lee, gyeong su-jin, jung ji-so."
+  },
+  {
+    "id": "793387_year",
+    "user_input": "when was holy night: demon hunters released?",
+    "bot_response": "holy night: demon hunters was released in 2025."
+  },
+  {
+    "id": "793387_rec",
+    "user_input": "recommend a movie like holy night: demon hunters.",
+    "bot_response": "if you liked holy night: demon hunters, you might enjoy kraken, dark nuns, the lost bus."
+  },
+  {
+    "id": "1109086_dir",
+    "user_input": "who directed war 2?",
+    "bot_response": "war 2 was directed by ayan mukerji."
+  },
+  {
+    "id": "1109086_cast",
+    "user_input": "who starred in war 2?",
+    "bot_response": "the main cast includes n.t. rama rao jr., hrithik roshan, kiara advani, ashutosh rana, anil kapoor."
+  },
+  {
+    "id": "1109086_year",
+    "user_input": "when was war 2 released?",
+    "bot_response": "war 2 was released in 2025."
+  },
+  {
+    "id": "1109086_rec",
+    "user_input": "recommend a movie like war 2.",
+    "bot_response": "if you liked war 2, you might enjoy coolie, the boy and the beast, hridayapoorvam."
+  },
+  {
+    "id": "617126_dir",
+    "user_input": "who directed the fantastic 4: first steps?",
+    "bot_response": "the fantastic 4: first steps was directed by matt shakman."
+  },
+  {
+    "id": "617126_cast",
+    "user_input": "who starred in the fantastic 4: first steps?",
+    "bot_response": "the main cast includes pedro pascal, vanessa kirby, ebon moss-bachrach, joseph quinn, ralph ineson."
+  },
+  {
+    "id": "617126_year",
+    "user_input": "when was the fantastic 4: first steps released?",
+    "bot_response": "the fantastic 4: first steps was released in 2025."
+  },
+  {
+    "id": "617126_rec",
+    "user_input": "recommend a movie like the fantastic 4: first steps.",
+    "bot_response": "if you liked the fantastic 4: first steps, you might enjoy superman, the naked gun, splitsville."
+  },
+  {
+    "id": "941109_dir",
+    "user_input": "who directed play dirty?",
+    "bot_response": "play dirty was directed by shane black."
+  },
+  {
+    "id": "941109_cast",
+    "user_input": "who starred in play dirty?",
+    "bot_response": "the main cast includes mark wahlberg, lakeith stanfield, rosa salazar, keegan-michael key, chukwudi iwuji."
+  },
+  {
+    "id": "941109_year",
+    "user_input": "when was play dirty released?",
+    "bot_response": "play dirty was released in 2025."
+  },
+  {
+    "id": "941109_rec",
+    "user_input": "recommend a movie like play dirty.",
+    "bot_response": "if you liked play dirty, you might enjoy the lost bus, mantis, the toxic avenger unrated."
+  },
+  {
+    "id": "1290879_dir",
+    "user_input": "who directed the woman in cabin 10?",
+    "bot_response": "the woman in cabin 10 was directed by simon stone."
+  },
+  {
+    "id": "1290879_cast",
+    "user_input": "who starred in the woman in cabin 10?",
+    "bot_response": "the main cast includes keira knightley, guy pearce, david ajala, gitte witt, art malik."
+  },
+  {
+    "id": "1290879_year",
+    "user_input": "when was the woman in cabin 10 released?",
+    "bot_response": "the woman in cabin 10 was released in 2025."
+  },
+  {
+    "id": "1290879_rec",
+    "user_input": "recommend a movie like the woman in cabin 10.",
+    "bot_response": "if you liked the woman in cabin 10, you might enjoy the life and times of judge roy bean, loss of balance, the seed of the sacred fig."
+  },
+  {
+    "id": "1257009_dir",
+    "user_input": "who directed primitive war?",
+    "bot_response": "primitive war was directed by luke sparke."
+  },
+  {
+    "id": "1257009_cast",
+    "user_input": "who starred in primitive war?",
+    "bot_response": "the main cast includes jeremy piven, tricia helfer, ryan kwanten, nick wechsler, anthony ingruber."
+  },
+  {
+    "id": "1257009_year",
+    "user_input": "when was primitive war released?",
+    "bot_response": "primitive war was released in 2025."
+  },
+  {
+    "id": "1257009_rec",
+    "user_input": "recommend a movie like primitive war.",
+    "bot_response": "if you liked primitive war, you might enjoy the man in my basement, the lychee road, hope."
+  },
+  {
+    "id": "1251717_dir",
+    "user_input": "who directed vicious?",
+    "bot_response": "vicious was directed by bryan bertino."
+  },
+  {
+    "id": "1251717_cast",
+    "user_input": "who starred in vicious?",
+    "bot_response": "the main cast includes dakota fanning, kathryn hunter, mary mccormack, rachel blanchard, devyn nekoda."
+  },
+  {
+    "id": "1251717_year",
+    "user_input": "when was vicious released?",
+    "bot_response": "vicious was released in 2025."
+  },
+  {
+    "id": "1251717_rec",
+    "user_input": "recommend a movie like vicious.",
+    "bot_response": "if you liked vicious, you might enjoy i heard the bells, coconut head generation, sweetness in the belly."
+  },
+  {
+    "id": "533533_dir",
+    "user_input": "who directed tron: ares?",
+    "bot_response": "tron: ares was directed by joachim rnning."
+  },
+  {
+    "id": "533533_cast",
+    "user_input": "who starred in tron: ares?",
+    "bot_response": "the main cast includes jared leto, greta lee, evan peters, gillian anderson, jodie turner-smith."
+  },
+  {
+    "id": "533533_year",
+    "user_input": "when was tron: ares released?",
+    "bot_response": "tron: ares was released in 2025."
+  },
+  {
+    "id": "533533_rec",
+    "user_input": "recommend a movie like tron: ares.",
+    "bot_response": "if you liked tron: ares, you might enjoy good boy, black phone 2, maintenance required."
+  },
+  {
+    "id": "986097_dir",
+    "user_input": "who directed him?",
+    "bot_response": "him was directed by justin tipping."
+  },
+  {
+    "id": "986097_cast",
+    "user_input": "who starred in him?",
+    "bot_response": "the main cast includes tyriq withers, marlon wayans, julia fox, tim heidecker, jim jefferies."
+  },
+  {
+    "id": "986097_year",
+    "user_input": "when was him released?",
+    "bot_response": "him was released in 2025."
+  },
+  {
+    "id": "986097_rec",
+    "user_input": "recommend a movie like him.",
+    "bot_response": "if you liked him, you might enjoy screamboat, the smashing machine, samurai i: musashi miyamoto."
+  },
+  {
+    "id": "1328803_dir",
+    "user_input": "who directed prisoner of war?",
+    "bot_response": "prisoner of war was directed by louis mandylor."
+  },
+  {
+    "id": "1328803_cast",
+    "user_input": "who starred in prisoner of war?",
+    "bot_response": "the main cast includes scott adkins, peter shinkoda, michael copon, donald cerrone, michael rene walton."
+  },
+  {
+    "id": "1328803_year",
+    "user_input": "when was prisoner of war released?",
+    "bot_response": "prisoner of war was released in 2025."
+  },
+  {
+    "id": "1328803_rec",
+    "user_input": "recommend a movie like prisoner of war.",
+    "bot_response": "if you liked prisoner of war, you might enjoy adulthood, get fast, timber falls."
+  },
+  {
+    "id": "803796_dir",
+    "user_input": "who directed kpop demon hunters?",
+    "bot_response": "kpop demon hunters was directed by chris appelhans."
+  },
+  {
+    "id": "803796_cast",
+    "user_input": "who starred in kpop demon hunters?",
+    "bot_response": "the main cast includes arden cho, may hong, ji-young yoo, ahn hyo-seop, yunjin kim."
+  },
+  {
+    "id": "803796_year",
+    "user_input": "when was kpop demon hunters released?",
+    "bot_response": "kpop demon hunters was released in 2025."
+  },
+  {
+    "id": "803796_rec",
+    "user_input": "recommend a movie like kpop demon hunters.",
+    "bot_response": "if you liked kpop demon hunters, you might enjoy how to train your dragon, the fantastic 4: first steps, elio."
+  },
+  {
+    "id": "1267319_dir",
+    "user_input": "who directed mantis?",
+    "bot_response": "mantis was directed by lee tae-sung."
+  },
+  {
+    "id": "1267319_cast",
+    "user_input": "who starred in mantis?",
+    "bot_response": "the main cast includes yim si-wan, park gyu-young, choi hyun-wook, bae gang-hee, hwang sung-bin."
+  },
+  {
+    "id": "1267319_year",
+    "user_input": "when was mantis released?",
+    "bot_response": "mantis was released in 2025."
+  },
+  {
+    "id": "1267319_rec",
+    "user_input": "recommend a movie like mantis.",
+    "bot_response": "if you liked mantis, you might enjoy play dirty, the man in my basement, stolen girl."
+  },
+  {
+    "id": "575265_dir",
+    "user_input": "who directed mission: impossible - the final reckoning?",
+    "bot_response": "mission: impossible - the final reckoning was directed by christopher mcquarrie."
+  },
+  {
+    "id": "575265_cast",
+    "user_input": "who starred in mission: impossible - the final reckoning?",
+    "bot_response": "the main cast includes tom cruise, hayley atwell, ving rhames, simon pegg, esai morales."
+  },
+  {
+    "id": "575265_year",
+    "user_input": "when was mission: impossible - the final reckoning released?",
+    "bot_response": "mission: impossible - the final reckoning was released in 2025."
+  },
+  {
+    "id": "575265_rec",
+    "user_input": "recommend a movie like mission: impossible - the final reckoning.",
+    "bot_response": "if you liked mission: impossible - the final reckoning, you might enjoy f1, fountain of youth, opus."
+  },
+  {
+    "id": "1061474_dir",
+    "user_input": "who directed superman?",
+    "bot_response": "superman was directed by james gunn."
+  },
+  {
+    "id": "1061474_cast",
+    "user_input": "who starred in superman?",
+    "bot_response": "the main cast includes david corenswet, rachel brosnahan, nicholas hoult, edi gathegi, nathan fillion."
+  },
+  {
+    "id": "1061474_year",
+    "user_input": "when was superman released?",
+    "bot_response": "superman was released in 2025."
+  },
+  {
+    "id": "1061474_rec",
+    "user_input": "recommend a movie like superman.",
+    "bot_response": "if you liked superman, you might enjoy the fantastic 4: first steps, jurassic world rebirth, mission: impossible - the final reckoning."
+  },
+  {
+    "id": "1053008_dir",
+    "user_input": "who directed fight another day?",
+    "bot_response": "fight another day was directed by james mark."
+  },
+  {
+    "id": "1053008_cast",
+    "user_input": "who starred in fight another day?",
+    "bot_response": "the main cast includes jim belushi, martin kove, eric johnson, ennis esmer, chuck liddell."
+  },
+  {
+    "id": "1053008_year",
+    "user_input": "when was fight another day released?",
+    "bot_response": "fight another day was released in 2024."
+  },
+  {
+    "id": "1053008_rec",
+    "user_input": "recommend a movie like fight another day.",
+    "bot_response": "if you liked fight another day, you might enjoy the boys in the boat, before i disappear, cinderella's revenge."
+  },
+  {
+    "id": "1009640_dir",
+    "user_input": "who directed valiant one?",
+    "bot_response": "valiant one was directed by steve barnett."
+  },
+  {
+    "id": "1009640_cast",
+    "user_input": "who starred in valiant one?",
+    "bot_response": "the main cast includes chase stokes, lana condor, desmin borges, callan mulvey, diana tsoy."
+  },
+  {
+    "id": "1009640_year",
+    "user_input": "when was valiant one released?",
+    "bot_response": "valiant one was released in 2025."
+  },
+  {
+    "id": "1009640_rec",
+    "user_input": "recommend a movie like valiant one.",
+    "bot_response": "if you liked valiant one, you might enjoy driving madeleine, primitive war, the unbreakable boy."
+  },
+  {
+    "id": "1277988_dir",
+    "user_input": "who directed caramelo?",
+    "bot_response": "caramelo was directed by diego freitas."
+  },
+  {
+    "id": "1277988_cast",
+    "user_input": "who starred in caramelo?",
+    "bot_response": "the main cast includes rafael vitti, amendoim, arianne botelho, kelzy ecard, bruno vinicius."
+  },
+  {
+    "id": "1277988_year",
+    "user_input": "when was caramelo released?",
+    "bot_response": "caramelo was released in 2025."
+  },
+  {
+    "id": "1277988_rec",
+    "user_input": "recommend a movie like caramelo.",
+    "bot_response": "if you liked caramelo, you might enjoy touch of evil, hakkenden, the batman."
+  },
+  {
+    "id": "1547527_dir",
+    "user_input": "who directed stay?",
+    "bot_response": "stay was directed by jas summers."
+  },
+  {
+    "id": "1547527_cast",
+    "user_input": "who starred in stay?",
+    "bot_response": "the main cast includes megalyn echikunwoke, mo mcrae, brandon firla, dominic stephens, patrick cloud."
+  },
+  {
+    "id": "1547527_year",
+    "user_input": "when was stay released?",
+    "bot_response": "stay was released in 2025."
+  },
+  {
+    "id": "1547527_rec",
+    "user_input": "recommend a movie like stay.",
+    "bot_response": "if you liked stay, you might enjoy killing faith, opus, ride away."
+  },
+  {
+    "id": "1352755_dir",
+    "user_input": "who directed maintenance required?",
+    "bot_response": "maintenance required was directed by lacey uhlemeyer."
+  },
+  {
+    "id": "1352755_cast",
+    "user_input": "who starred in maintenance required?",
+    "bot_response": "the main cast includes madelaine petsch, jacob scipio, katy o'brian, madison bailey, matteo lane."
+  },
+  {
+    "id": "1352755_year",
+    "user_input": "when was maintenance required released?",
+    "bot_response": "maintenance required was released in 2025."
+  },
+  {
+    "id": "1352755_rec",
+    "user_input": "recommend a movie like maintenance required.",
+    "bot_response": "if you liked maintenance required, you might enjoy him, tron: ares, spinal tap ii: the end continues."
+  },
+  {
+    "id": "7451_dir",
+    "user_input": "who directed xxx?",
+    "bot_response": "xxx was directed by rob cohen."
+  },
+  {
+    "id": "7451_cast",
+    "user_input": "who starred in xxx?",
+    "bot_response": "the main cast includes vin diesel, asia argento, marton csokas, samuel l. jackson, michael roof."
+  },
+  {
+    "id": "7451_year",
+    "user_input": "when was xxx released?",
+    "bot_response": "xxx was released in 2002."
+  },
+  {
+    "id": "7451_rec",
+    "user_input": "recommend a movie like xxx.",
+    "bot_response": "if you liked xxx, you might enjoy xxx: state of the union, xxx, black hawk down."
+  },
+  {
+    "id": "1087192_dir",
+    "user_input": "who directed how to train your dragon?",
+    "bot_response": "how to train your dragon was directed by dean deblois."
+  },
+  {
+    "id": "1087192_cast",
+    "user_input": "who starred in how to train your dragon?",
+    "bot_response": "the main cast includes mason thames, nico parker, gerard butler, nick frost, gabriel howell."
+  },
+  {
+    "id": "1087192_year",
+    "user_input": "when was how to train your dragon released?",
+    "bot_response": "how to train your dragon was released in 2025."
+  },
+  {
+    "id": "1087192_rec",
+    "user_input": "recommend a movie like how to train your dragon.",
+    "bot_response": "if you liked how to train your dragon, you might enjoy demon slayer: kimetsu no yaiba infinity castle, m3gan 2.0, lilo stitch."
+  },
+  {
+    "id": "1357886_dir",
+    "user_input": "who directed django undisputed?",
+    "bot_response": "django undisputed was directed by claudio del falco."
+  },
+  {
+    "id": "1357886_cast",
+    "user_input": "who starred in django undisputed?",
+    "bot_response": "the main cast includes claudio del falco, tomas arana, michael segal, ottaviano dell'acqua, clara guggiari."
+  },
+  {
+    "id": "1357886_year",
+    "user_input": "when was django undisputed released?",
+    "bot_response": "django undisputed was released in 2024."
+  },
+  {
+    "id": "1357886_rec",
+    "user_input": "recommend a movie like django undisputed.",
+    "bot_response": "if you liked django undisputed, you might enjoy palm springs, insomnia, joker."
+  },
+  {
+    "id": "1512581_dir",
+    "user_input": "who directed no tears in hell?",
+    "bot_response": "no tears in hell was directed by michael caissie."
+  },
+  {
+    "id": "1512581_cast",
+    "user_input": "who starred in no tears in hell?",
+    "bot_response": "the main cast includes luke baines, gwen van dam, tatjana marjanovic, audrey neal, gabriella westwood."
+  },
+  {
+    "id": "1512581_year",
+    "user_input": "when was no tears in hell released?",
+    "bot_response": "no tears in hell was released in 2025."
+  },
+  {
+    "id": "1512581_rec",
+    "user_input": "recommend a movie like no tears in hell.",
+    "bot_response": "if you liked no tears in hell, you might enjoy american sweatshop, shell, graduation heist."
+  },
+  {
+    "id": "1078605_dir",
+    "user_input": "who directed weapons?",
+    "bot_response": "weapons was directed by zach cregger."
+  },
+  {
+    "id": "1078605_cast",
+    "user_input": "who starred in weapons?",
+    "bot_response": "the main cast includes julia garner, josh brolin, alden ehrenreich, austin abrams, benedict wong."
+  },
+  {
+    "id": "1078605_year",
+    "user_input": "when was weapons released?",
+    "bot_response": "weapons was released in 2025."
+  },
+  {
+    "id": "1078605_rec",
+    "user_input": "recommend a movie like weapons.",
+    "bot_response": "if you liked weapons, you might enjoy bring her back, together, the conjuring: last rites."
+  },
+  {
+    "id": "1054867_dir",
+    "user_input": "who directed one battle after another?",
+    "bot_response": "one battle after another was directed by paul thomas anderson."
+  },
+  {
+    "id": "1054867_cast",
+    "user_input": "who starred in one battle after another?",
+    "bot_response": "the main cast includes leonardo dicaprio, sean penn, chase infiniti, benicio del toro, regina hall."
+  },
+  {
+    "id": "1054867_year",
+    "user_input": "when was one battle after another released?",
+    "bot_response": "one battle after another was released in 2025."
+  },
+  {
+    "id": "1054867_rec",
+    "user_input": "recommend a movie like one battle after another.",
+    "bot_response": "if you liked one battle after another, you might enjoy the voice of hind rajab, the smashing machine, the long walk."
+  },
+  {
+    "id": "1234821_dir",
+    "user_input": "who directed jurassic world rebirth?",
+    "bot_response": "jurassic world rebirth was directed by gareth edwards."
+  },
+  {
+    "id": "1234821_cast",
+    "user_input": "who starred in jurassic world rebirth?",
+    "bot_response": "the main cast includes scarlett johansson, mahershala ali, jonathan bailey, rupert friend, manuel garcia-rulfo."
+  },
+  {
+    "id": "1234821_year",
+    "user_input": "when was jurassic world rebirth released?",
+    "bot_response": "jurassic world rebirth was released in 2025."
+  },
+  {
+    "id": "1234821_rec",
+    "user_input": "recommend a movie like jurassic world rebirth.",
+    "bot_response": "if you liked jurassic world rebirth, you might enjoy superman, night carnage, how to train your dragon."
+  },
+  {
+    "id": "911430_dir",
+    "user_input": "who directed f1?",
+    "bot_response": "f1 was directed by joseph kosinski."
+  },
+  {
+    "id": "911430_cast",
+    "user_input": "who starred in f1?",
+    "bot_response": "the main cast includes brad pitt, damson idris, javier bardem, kerry condon, tobias menzies."
+  },
+  {
+    "id": "911430_year",
+    "user_input": "when was f1 released?",
+    "bot_response": "f1 was released in 2025."
+  },
+  {
+    "id": "911430_rec",
+    "user_input": "recommend a movie like f1.",
+    "bot_response": "if you liked f1, you might enjoy superman, mission: impossible - the final reckoning, jurassic world rebirth."
+  },
+  {
+    "id": "1552819_dir",
+    "user_input": "who directed assassin?",
+    "bot_response": "assassin was directed by ."
+  },
+  {
+    "id": "1552819_cast",
+    "user_input": "who starred in assassin?",
+    "bot_response": "the main cast includes ray lui, ming wang."
+  },
+  {
+    "id": "1552819_year",
+    "user_input": "when was assassin released?",
+    "bot_response": "assassin was released in 2025."
+  },
+  {
+    "id": "1552819_rec",
+    "user_input": "recommend a movie like assassin.",
+    "bot_response": "if you liked assassin, you might enjoy rate the cookie, killer tomatoes eat france!, search."
+  },
+  {
+    "id": "1549457_dir",
+    "user_input": "who directed gypsy moon?",
+    "bot_response": "gypsy moon was directed by tony gibson."
+  },
+  {
+    "id": "1549457_cast",
+    "user_input": "who starred in gypsy moon?",
+    "bot_response": "the main cast includes tony gibson, lauren lox, alexis arnold, david d. ford."
+  },
+  {
+    "id": "1549457_year",
+    "user_input": "when was gypsy moon released?",
+    "bot_response": "gypsy moon was released in 2024."
+  },
+  {
+    "id": "1236470_dir",
+    "user_input": "who directed the lost bus?",
+    "bot_response": "the lost bus was directed by paul greengrass."
+  },
+  {
+    "id": "1236470_cast",
+    "user_input": "who starred in the lost bus?",
+    "bot_response": "the main cast includes matthew mcconaughey, america ferrera, yul vazquez, ashlie atkinson, kimberli flores."
+  },
+  {
+    "id": "1236470_year",
+    "user_input": "when was the lost bus released?",
+    "bot_response": "the lost bus was released in 2025."
+  },
+  {
+    "id": "1236470_rec",
+    "user_input": "recommend a movie like the lost bus.",
+    "bot_response": "if you liked the lost bus, you might enjoy twinless, all of you, tron: ares."
+  },
+  {
+    "id": "1218925_dir",
+    "user_input": "who directed chainsaw man - the movie: reze arc?",
+    "bot_response": "chainsaw man - the movie: reze arc was directed by tatsuya yoshihara."
+  },
+  {
+    "id": "1218925_cast",
+    "user_input": "who starred in chainsaw man - the movie: reze arc?",
+    "bot_response": "the main cast includes kikunosuke toya, reina ueda, shiori izawa, tomori kusunoki, shogo sakata."
+  },
+  {
+    "id": "1218925_year",
+    "user_input": "when was chainsaw man - the movie: reze arc released?",
+    "bot_response": "chainsaw man - the movie: reze arc was released in 2025."
+  },
+  {
+    "id": "1218925_rec",
+    "user_input": "recommend a movie like chainsaw man - the movie: reze arc.",
+    "bot_response": "if you liked chainsaw man - the movie: reze arc, you might enjoy marco, no other choice, kantara: chapter 1."
+  },
+  {
+    "id": "1007734_dir",
+    "user_input": "who directed nobody 2?",
+    "bot_response": "nobody 2 was directed by timo tjahjanto."
+  },
+  {
+    "id": "1007734_cast",
+    "user_input": "who starred in nobody 2?",
+    "bot_response": "the main cast includes bob odenkirk, connie nielsen, john ortiz, colin hanks, rza."
+  },
+  {
+    "id": "1007734_year",
+    "user_input": "when was nobody 2 released?",
+    "bot_response": "nobody 2 was released in 2025."
+  },
+  {
+    "id": "1007734_rec",
+    "user_input": "recommend a movie like nobody 2.",
+    "bot_response": "if you liked nobody 2, you might enjoy the naked gun, weapons, highest 2 lowest."
+  },
+  {
+    "id": "1175942_dir",
+    "user_input": "who directed the bad guys 2?",
+    "bot_response": "the bad guys 2 was directed by pierre perifel."
+  },
+  {
+    "id": "1175942_cast",
+    "user_input": "who starred in the bad guys 2?",
+    "bot_response": "the main cast includes sam rockwell, marc maron, awkwafina, craig robinson, anthony ramos."
+  },
+  {
+    "id": "1175942_year",
+    "user_input": "when was the bad guys 2 released?",
+    "bot_response": "the bad guys 2 was released in 2025."
+  },
+  {
+    "id": "1175942_rec",
+    "user_input": "recommend a movie like the bad guys 2.",
+    "bot_response": "if you liked the bad guys 2, you might enjoy the bad guys, elio, the naked gun."
+  },
+  {
+    "id": "980477_dir",
+    "user_input": "who directed ne zha 2?",
+    "bot_response": "ne zha 2 was directed by yang yu."
+  },
+  {
+    "id": "980477_cast",
+    "user_input": "who starred in ne zha 2?",
+    "bot_response": "the main cast includes lu yanting, joseph, han mo, chen hao, lu qi."
+  },
+  {
+    "id": "980477_year",
+    "user_input": "when was ne zha 2 released?",
+    "bot_response": "ne zha 2 was released in 2025."
+  },
+  {
+    "id": "980477_rec",
+    "user_input": "recommend a movie like ne zha 2.",
+    "bot_response": "if you liked ne zha 2, you might enjoy ne zha, creation of the gods ii: demon force, dead to rights."
+  },
+  {
+    "id": "1010581_dir",
+    "user_input": "who directed my fault?",
+    "bot_response": "my fault was directed by domingo gonzlez."
+  },
+  {
+    "id": "1010581_cast",
+    "user_input": "who starred in my fault?",
+    "bot_response": "the main cast includes nicole wallace, gabriel guevara, marta hazas, ivn snchez, eva ruiz."
+  },
+  {
+    "id": "1010581_year",
+    "user_input": "when was my fault released?",
+    "bot_response": "my fault was released in 2023."
+  },
+  {
+    "id": "1010581_rec",
+    "user_input": "recommend a movie like my fault.",
+    "bot_response": "if you liked my fault, you might enjoy your fault, through my window: across the sea, beautiful disaster."
+  },
+  {
+    "id": "1156594_dir",
+    "user_input": "who directed our fault?",
+    "bot_response": "our fault was directed by domingo gonzlez."
+  },
+  {
+    "id": "1156594_cast",
+    "user_input": "who starred in our fault?",
+    "bot_response": "the main cast includes nicole wallace, gabriel guevara, gabriela andrada, marta hazas, goya toledo."
+  },
+  {
+    "id": "1156594_year",
+    "user_input": "when was our fault released?",
+    "bot_response": "our fault was released in 2025."
+  },
+  {
+    "id": "1156594_rec",
+    "user_input": "recommend a movie like our fault.",
+    "bot_response": "if you liked our fault, you might enjoy hulk, maxxxine, interstellar."
+  },
+  {
+    "id": "157336_dir",
+    "user_input": "who directed interstellar?",
+    "bot_response": "interstellar was directed by christopher nolan."
+  },
+  {
+    "id": "157336_cast",
+    "user_input": "who starred in interstellar?",
+    "bot_response": "the main cast includes matthew mcconaughey, anne hathaway, michael caine, jessica chastain, casey affleck."
+  },
+  {
+    "id": "157336_year",
+    "user_input": "when was interstellar released?",
+    "bot_response": "interstellar was released in 2014."
+  },
+  {
+    "id": "157336_rec",
+    "user_input": "recommend a movie like interstellar.",
+    "bot_response": "if you liked interstellar, you might enjoy inception, the martian, guardians of the galaxy."
+  },
+  {
+    "id": "552524_dir",
+    "user_input": "who directed lilo stitch?",
+    "bot_response": "lilo stitch was directed by dean fleischer camp."
+  },
+  {
+    "id": "552524_cast",
+    "user_input": "who starred in lilo stitch?",
+    "bot_response": "the main cast includes maia kealoha, sydney agudong, chris sanders, zach galifianakis, billy magnussen."
+  },
+  {
+    "id": "552524_year",
+    "user_input": "when was lilo stitch released?",
+    "bot_response": "lilo stitch was released in 2025."
+  },
+  {
+    "id": "552524_rec",
+    "user_input": "recommend a movie like lilo stitch.",
+    "bot_response": "if you liked lilo stitch, you might enjoy how to train your dragon, happy gilmore 2, elio."
+  },
+  {
+    "id": "1284120_dir",
+    "user_input": "who directed the ugly stepsister?",
+    "bot_response": "the ugly stepsister was directed by emilie blichfeldt."
+  },
+  {
+    "id": "1284120_cast",
+    "user_input": "who starred in the ugly stepsister?",
+    "bot_response": "the main cast includes lea myren, ane dahl torp, thea sofie loch nss, flo fagerli, isac calmroth."
+  },
+  {
+    "id": "1284120_year",
+    "user_input": "when was the ugly stepsister released?",
+    "bot_response": "the ugly stepsister was released in 2025."
+  },
+  {
+    "id": "1284120_rec",
+    "user_input": "recommend a movie like the ugly stepsister.",
+    "bot_response": "if you liked the ugly stepsister, you might enjoy sharp corner, fear street: prom queen, reflection in a dead diamond."
+  },
+  {
+    "id": "987400_dir",
+    "user_input": "who directed aztec batman: clash of empires?",
+    "bot_response": "aztec batman: clash of empires was directed by juan jose meza-leon."
+  },
+  {
+    "id": "987400_cast",
+    "user_input": "who starred in aztec batman: clash of empires?",
+    "bot_response": "the main cast includes horacio garca rojas, lvaro morte, omar chaparro, humberto busto, jorge r. gutierrez."
+  },
+  {
+    "id": "987400_year",
+    "user_input": "when was aztec batman: clash of empires released?",
+    "bot_response": "aztec batman: clash of empires was released in 2025."
+  },
+  {
+    "id": "987400_rec",
+    "user_input": "recommend a movie like aztec batman: clash of empires.",
+    "bot_response": "if you liked aztec batman: clash of empires, you might enjoy who's singin' over there?, demons of eden, a woman called mother."
+  },
+  {
+    "id": "1010756_dir",
+    "user_input": "who directed the strangers: chapter 2?",
+    "bot_response": "the strangers: chapter 2 was directed by renny harlin."
+  },
+  {
+    "id": "1010756_cast",
+    "user_input": "who starred in the strangers: chapter 2?",
+    "bot_response": "the main cast includes madelaine petsch, froy gutierrez, gabriel basso, ema horvath, brooke lena johnson."
+  },
+  {
+    "id": "1010756_year",
+    "user_input": "when was the strangers: chapter 2 released?",
+    "bot_response": "the strangers: chapter 2 was released in 2025."
+  },
+  {
+    "id": "1010756_rec",
+    "user_input": "recommend a movie like the strangers: chapter 2.",
+    "bot_response": "if you liked the strangers: chapter 2, you might enjoy devils stay, him, the strangers: chapter 3."
+  },
+  {
+    "id": "1385169_dir",
+    "user_input": "who directed rumpelstiltskin?",
+    "bot_response": "rumpelstiltskin was directed by andy edwards."
+  },
+  {
+    "id": "1385169_cast",
+    "user_input": "who starred in rumpelstiltskin?",
+    "bot_response": "the main cast includes hannah baxter-eve, joss carter, adrian bouchet, colin malone, evyn george."
+  },
+  {
+    "id": "1385169_year",
+    "user_input": "when was rumpelstiltskin released?",
+    "bot_response": "rumpelstiltskin was released in 2025."
+  },
+  {
+    "id": "1385169_rec",
+    "user_input": "recommend a movie like rumpelstiltskin.",
+    "bot_response": "if you liked rumpelstiltskin, you might enjoy fight club (russian version), null, lethal weapon 2."
+  },
+  {
+    "id": "1223422_dir",
+    "user_input": "who directed motherland?",
+    "bot_response": "motherland was directed by evan matthews."
+  },
+  {
+    "id": "1223422_cast",
+    "user_input": "who starred in motherland?",
+    "bot_response": "the main cast includes miriam silverman, emily arancio, holland taylor, nestor carbonell, arica himmel."
+  },
+  {
+    "id": "1223422_year",
+    "user_input": "when was motherland released?",
+    "bot_response": "motherland was released in 2025."
+  },
+  {
+    "id": "1223422_rec",
+    "user_input": "recommend a movie like motherland.",
+    "bot_response": "if you liked motherland, you might enjoy victory by submission, the state of the dead, cabin pressure."
+  },
+  {
+    "id": "1403735_dir",
+    "user_input": "who directed laila?",
+    "bot_response": "laila was directed by ram narayan."
+  },
+  {
+    "id": "1403735_cast",
+    "user_input": "who starred in laila?",
+    "bot_response": "the main cast includes vishwak sen, akanksha sharma, babloo prithiveeraj, abhimanyu singh, vineet kumar."
+  },
+  {
+    "id": "1403735_year",
+    "user_input": "when was laila released?",
+    "bot_response": "laila was released in 2025."
+  },
+  {
+    "id": "1403735_rec",
+    "user_input": "recommend a movie like laila.",
+    "bot_response": "if you liked laila, you might enjoy scooby-doo: agence toutou risques, vol. 1 : le voleur de vlo, wizards of waverly place: wizard school, mar."
+  },
+  {
+    "id": "1477114_dir",
+    "user_input": "who directed sorority?",
+    "bot_response": "sorority was directed by sigrid polon."
+  },
+  {
+    "id": "1477114_cast",
+    "user_input": "who starred in sorority?",
+    "bot_response": "the main cast includes azi acosta, apple dy, rinoa halili, julianne richards, jackie lyn barcebal."
+  },
+  {
+    "id": "1477114_year",
+    "user_input": "when was sorority released?",
+    "bot_response": "sorority was released in 2025."
+  },
+  {
+    "id": "1477114_rec",
+    "user_input": "recommend a movie like sorority.",
+    "bot_response": "if you liked sorority, you might enjoy don't think i've forgotten: cambodia's lost rock and roll, high and low, bangkera."
+  }
+]
