@@ -1,9 +1,10 @@
-streamlit
-tensorflow>=2.13.0
 transformers>=4.30.0
-python-dotenv
-requests
-pandas
+tensorflow>=2.12.0
+datasets>=2.12.0
 numpy
+pandas
+requests
+nltk
 scikit-learn
-sentencepiece
+gradio
+tqdm
