@@ -1,4 +1,4 @@
-# 🎬 CinemaQA Chatbot: A Fine-Tuned GPT-2 Film Recommender
+# Film Recommender
 
 This project features a chatbot fine-tuned from **GPT-2** to answer factual questions about movies — such as directors, cast, and release dates. It was developed as part of a **summative assignment**.
 
@@ -39,7 +39,7 @@ Follow the steps below to set up and run the project locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone [Link to your GitHub Repository]
+   git clone [https://github.com/nkubana0/Film-Recommender.git](url)
    cd Film-Recommender
    ```
 
@@ -92,7 +92,7 @@ Run the following steps sequentially to train and use the chatbot:
 
 ## 📊 Model Performance
 
-The final model, **`exp6_qa_only_focused`**, was trained on a curated Q&A dataset and achieved:
+The final model, **`exp5_qa_only_focused`**, was trained on a curated Q&A dataset and achieved:
 
 * **Mean ROUGE-1 Score:** `0.31` on the held-out test set
   (indicating strong factual recall and overlap with ground truth)
