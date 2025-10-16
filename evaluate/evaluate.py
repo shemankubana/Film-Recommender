@@ -8,6 +8,11 @@ Also runs 10 qualitative queries (taken from cleaned dataset) and 3 out-of-domai
 """
 
 import os
+import multiprocessing
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+multiprocessing.set_start_method("spawn", force=True)
+
 import argparse
 import json
 import numpy as np
