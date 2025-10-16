@@ -2,9 +2,7 @@
 
 This project features a chatbot fine-tuned from **GPT-2** to answer factual questions about movies — such as directors, cast, and release dates. It was developed as part of a **summative assignment**.
 
----
-
-## 🚀 Features
+## Features
 
 * **Factual Q&A:** Specialized to answer movie-related questions accurately.
 * **Streamlit UI:** Interactive and user-friendly web interface for chatting with the model.
@@ -12,9 +10,7 @@ This project features a chatbot fine-tuned from **GPT-2** to answer factual ques
 * **Early Stopping:** Prevents overfitting by monitoring validation loss.
 * **Rejects Out-of-Domain Queries:** Politely refuses non-factual questions (e.g., recommendations).
 
----
-
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 /
@@ -30,9 +26,7 @@ This project features a chatbot fine-tuned from **GPT-2** to answer factual ques
 └── README.md             # This file
 ```
 
----
-
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 Follow the steps below to set up and run the project locally:
 
@@ -52,9 +46,7 @@ Follow the steps below to set up and run the project locally:
    pip install -r requirements.txt
    ```
 
----
-
-## 💡 Usage Guide
+## Usage Guide
 
 Run the following steps sequentially to train and use the chatbot:
 
@@ -88,9 +80,7 @@ Run the following steps sequentially to train and use the chatbot:
    streamlit run app.py
    ```
 
----
-
-## 📊 Model Performance
+## Model Performance
 
 The final model, **`exp5_qa_only_focused`**, was trained on a curated Q&A dataset and achieved:
 
