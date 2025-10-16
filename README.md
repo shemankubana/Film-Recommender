@@ -1,84 +1,102 @@
-```markdown
-# CinemaQA Chatbot: A Fine-Tuned GPT-2 Film Recommender
+# 🎬 CinemaQA Chatbot: A Fine-Tuned GPT-2 Film Recommender
 
-This project contains a chatbot built by fine-tuning the GPT-2 language model to answer factual questions about movies, such as directors, cast, and release dates. The project was developed as a summative assignment.
+This project features a chatbot fine-tuned from **GPT-2** to answer factual questions about movies — such as directors, cast, and release dates. It was developed as part of a **summative assignment**.
 
-## Features
+---
 
--   **Factual Q&A:** The model is specialized to answer questions about movie details.
--   **Streamlit UI:** A simple and interactive web interface to chat with the model.
--   **Data Augmentation:** The training data was augmented to improve model robustness.
--   **Early Stopping:** The training process uses early stopping to prevent overfitting and ensure the best model is saved.
--   **Rejects Out-of-Domain Queries:** The final model correctly ignores questions (like recommendations) that it was not trained on.
+## 🚀 Features
 
-## Project Structure
+* **Factual Q&A:** Specialized to answer movie-related questions accurately.
+* **Streamlit UI:** Interactive and user-friendly web interface for chatting with the model.
+* **Data Augmentation:** Enhanced dataset diversity for better generalization.
+* **Early Stopping:** Prevents overfitting by monitoring validation loss.
+* **Rejects Out-of-Domain Queries:** Politely refuses non-factual questions (e.g., recommendations).
+
+---
+
+## 🗂️ Project Structure
 
 ```
-
 /
-├── data/                 \# Holds raw, processed, and tokenized datasets
-├── evaluate/             \# Scripts for model evaluation
-├── saved\_model/          \# Saved model checkpoints
-├── app.py                \# The Streamlit web application
-├── train.py              \# Script for training the model
-├── preprocess.py         \# Script for data preprocessing and tokenization
-├── augment\_data.py       \# Script for augmenting the dataset
-├── create\_qa\_dataset.py  \# Script to filter for Q\&A pairs
-├── requirements.txt      \# Project dependencies
-└── README.md             \# This file
+├── data/                 # Raw, processed, and tokenized datasets
+├── evaluate/             # Model evaluation scripts
+├── saved_model/          # Saved model checkpoints
+├── app.py                # Streamlit web application
+├── train.py              # Model training script
+├── preprocess.py         # Data preprocessing and tokenization
+├── augment_data.py       # Dataset augmentation script
+├── create_qa_dataset.py  # Extracts and filters Q&A pairs
+├── requirements.txt      # Project dependencies
+└── README.md             # This file
+```
 
-````
+---
 
-## Setup and Installation
+## ⚙️ Setup and Installation
 
-Follow these steps to set up the environment and run the project.
+Follow the steps below to set up and run the project locally:
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [Link to your GitHub Repository]
-    cd Film-Recommender
-    ```
+1. **Clone the Repository**
 
-2.  **Create a Conda environment and install dependencies:**
-    ```bash
-    # It is recommended to use Python 3.12
-    conda create --name cinemaqa python=3.12
-    conda activate cinemaqa
-    pip install -r requirements.txt
-    ```
+   ```bash
+   git clone [Link to your GitHub Repository]
+   cd Film-Recommender
+   ```
 
-## Usage
+2. **Create a Conda Environment and Install Dependencies**
 
-The project is run in a sequence of steps.
+   ```bash
+   # Recommended: Python 3.12
+   conda create --name cinemaqa python=3.12
+   conda activate cinemaqa
+   pip install -r requirements.txt
+   ```
 
-1.  **Data Augmentation (Optional but Recommended):**
-    ```bash
-    python augment_data.py
-    ```
+---
 
-2.  **Filter for Q&A Data:**
-    ```bash
-    python create_qa_dataset.py
-    ```
+## 💡 Usage Guide
 
-3.  **Preprocess and Tokenize:**
-    ```bash
-    python preprocess.py --input_json data/cinema_tmdb_qa_only.json
-    ```
+Run the following steps sequentially to train and use the chatbot:
 
-4.  **Train the Model:**
-    ```bash
-    python train.py --experiment_name "final_model" --epochs 10 --patience 2
-    ```
+1. **Data Augmentation (Optional but Recommended)**
 
-5.  **Run the Chatbot Application:**
-    ```bash
-    streamlit run app.py
-    ```
+   ```bash
+   python augment_data.py
+   ```
 
-## Final Model Performance
+2. **Filter for Q&A Data**
 
-The final model (`exp6_qa_only_focused`) was trained on the specialized Q&A dataset. On a held-out test set, it achieved a **mean ROUGE-1 score of 0.31**, indicating a strong factual recall and significant overlap with the ground-truth answers.
+   ```bash
+   python create_qa_dataset.py
+   ```
 
-The model shows strong performance on factual questions but correctly rejects subjective recommendations and out-of-domain topics by providing a blank response.
-````
+3. **Preprocess and Tokenize**
+
+   ```bash
+   python preprocess.py --input_json data/cinema_tmdb_qa_only.json
+   ```
+
+4. **Train the Model**
+
+   ```bash
+   python train.py --experiment_name "final_model" --epochs 10 --patience 2
+   ```
+
+5. **Run the Chatbot Application**
+
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 📊 Model Performance
+
+The final model, **`exp6_qa_only_focused`**, was trained on a curated Q&A dataset and achieved:
+
+* **Mean ROUGE-1 Score:** `0.31` on the held-out test set
+  (indicating strong factual recall and overlap with ground truth)
+
+It performs well on factual questions while correctly **ignoring subjective or out-of-domain prompts** by responding with a blank or neutral message.
+
+---
