@@ -1,0 +1,101 @@
+prompt,reference_response,generated_response,bleu_score,rouge1,rougeL
+who directed the conjuring: last rites?,the conjuring: last rites was directed by michael chaves.,We directed conjuration: final rites.,0.02638012815011716,0.42857142857142855,0.2857142857142857
+who starred in the conjuring: last rites?,"the main cast includes vera farmiga, patrick wilson, mia tomlinson, ben hardy, rebecca calder.",,0.0,0.0,0.0
+when was the conjuring: last rites released?,the conjuring: last rites was released in 2025.,,0.0,0.0,0.0
+recommend a movie like the conjuring: last rites.,"if you liked the conjuring: last rites, you might enjoy the long walk, the lost bus, one battle after another.",,0.0,0.0,0.0
+who directed the lost princess?,the lost princess was directed by hicham hajji.,The Lost Princess was directed by christopher mcconaughey.,0.12753431387594827,0.75,0.75
+who starred in the lost princess?,"the main cast includes cillian o'sullivan, gary dourdan, robert knepper, soraya azzabi, eric roberts.","The main cast includes julia, jonathan, gabriel, evan, emily, hannah, harris, michael, matthew.",0.05494442118187713,0.28571428571428575,0.28571428571428575
+when was the lost princess released?,the lost princess was released in 2025.,The lost Princess was released in 2025.,0.5410822690539396,1.0,1.0
+who directed demon slayer: kimetsu no yaiba infinity castle?,demon slayer: kimetsu no yaiba infinity castle was directed by haruo sotozaki.,,0.0,0.0,0.0
+who starred in demon slayer: kimetsu no yaiba infinity castle?,"the main cast includes natsuki hanae, hiro shimono, takahiro sakurai, akira ishida, yoshitsugu matsuoka.",,0.0,0.0,0.0
+when was demon slayer: kimetsu no yaiba infinity castle released?,demon slayer: kimetsu no yaiba infinity castle was released in 2025.,,0.0,0.0,0.0
+recommend a movie like demon slayer: kimetsu no yaiba infinity castle.,"if you liked demon slayer: kimetsu no yaiba infinity castle, you might enjoy war of the worlds, night carnage, one battle after another.",,0.0,0.0,0.0
+who directed war of the worlds?,war of the worlds was directed by rich lee.,War of The Worlds was directed by joseph rnning.,0.1186840521952098,0.7777777777777778,0.7777777777777778
+who starred in war of the worlds?,"the main cast includes ice cube, eva longoria, clark gregg, iman benson, henry hunter hall.",We're always looking for new ways to play the main cast.,0.04822722807732158,0.22222222222222224,0.22222222222222224
+when was war of the worlds released?,war of the worlds was released in 2025.,War of The Worlds was released in 2025.,0.4671379777282001,1.0,1.0
+recommend a movie like war of the worlds.,"if you liked war of the worlds, you might enjoy night carnage, demon slayer: kimetsu no yaiba infinity castle, jurassic world rebirth.",,0.0,0.0,0.0
+who directed the toxic avenger unrated?,the toxic avenger unrated was directed by macon blair.,,0.0,0.0,0.0
+who starred in the toxic avenger unrated?,"the main cast includes peter dinklage, jacob tremblay, taylour paige, julia davis, jonny coyne.",,0.0,0.0,0.0
+when was the toxic avenger unrated released?,the toxic avenger unrated was released in 2025.,The toxic revenger was released in 2025.,0.47750342648354643,0.7999999999999999,0.7999999999999999
+recommend a movie like the toxic avenger unrated.,"if you liked the toxic avenger unrated, you might enjoy rabbit trap, the last winter, snoopy presents: a summer musical.",,0.0,0.0,0.0
+who directed marco?,marco was directed by haneef adeni.,,0.0,0.0,0.0
+who starred in marco?,"the main cast includes unni mukundan, siddique, ishan shoukath, jagadish, abhimanyu thilakan.",,0.0,0.0,0.0
+when was marco released?,marco was released in 2024.,marco was released in 2025.,0.537284965911771,0.8000000000000002,0.8000000000000002
+recommend a movie like marco.,"if you liked marco, you might enjoy the roundup: punishment, azaad, singham again.",,0.0,0.0,0.0
+who directed holy night: demon hunters?,holy night: demon hunters was directed by lim dae-hee.,laughslaughs. holy evening: demonic hunters was directed by joseph rnning.,0.2224246939793677,0.6,0.6
+who starred in holy night: demon hunters?,"the main cast includes don lee, seohyun, david lee, gyeong su-jin, jung ji-so.",,0.0,0.0,0.0
+when was holy night: demon hunters released?,holy night: demon hunters was released in 2025.,,0.0,0.0,0.0
+recommend a movie like holy night: demon hunters.,"if you liked holy night: demon hunters, you might enjoy kraken, dark nuns, the lost bus.",,0.0,0.0,0.0
+who directed war 2?,war 2 was directed by ayan mukerji.,War 2 was directed by christopher mcquarrie.,0.3655552228545123,0.7142857142857143,0.7142857142857143
+who starred in war 2?,"the main cast includes n.t. rama rao jr., hrithik roshan, kiara advani, ashutosh rana, anil kapoor.",We're definitely going to go with war 3.,0.006356806438755457,0.0,0.0
+when was war 2 released?,war 2 was released in 2025.,War 2 was released in 2025.,0.8091067115702212,1.0,1.0
+recommend a movie like war 2.,"if you liked war 2, you might enjoy coolie, the boy and the beast, hridayapoorvam.",,0.0,0.0,0.0
+who directed the fantastic 4: first steps?,the fantastic 4: first steps was directed by matt shakman.,"The fantastic four: main cast includes julia gonzlez, jonathan hanks, gabriel guevara, michael gomez, marta gorgonzon.",0.011433361115787456,0.15384615384615385,0.15384615384615385
+who starred in the fantastic 4: first steps?,"the main cast includes pedro pascal, vanessa kirby, ebon moss-bachrach, joseph quinn, ralph ineson.","We're really excited to play the main cast of main characters such as julia, james, gabriel, marta, michael, marc, matthew, nathan, nick.",0.03689965150010175,0.15789473684210528,0.15789473684210528
+when was the fantastic 4: first steps released?,the fantastic 4: first steps was released in 2025.,4: the fabulous 4. first step was released in 2025.,0.38827267775222324,0.8421052631578948,0.8421052631578948
+recommend a movie like the fantastic 4: first steps.,"if you liked the fantastic 4: first steps, you might enjoy superman, the naked gun, splitsville.",,0.0,0.0,0.0
+who directed play dirty?,play dirty was directed by shane black.,Peter Berg: Peter Berg was directed by james bertino.,0.10025157431478134,0.375,0.375
+who starred in play dirty?,"the main cast includes mark wahlberg, lakeith stanfield, rosa salazar, keegan-michael key, chukwudi iwuji.",,0.0,0.0,0.0
+when was play dirty released?,play dirty was released in 2025.,play dirty was released in 2025.,1.0,1.0,1.0
+recommend a movie like play dirty.,"if you liked play dirty, you might enjoy the lost bus, mantis, the toxic avenger unrated.",,0.0,0.0,0.0
+who directed the woman in cabin 10?,the woman in cabin 10 was directed by simon stone.,,0.0,0.0,0.0
+who starred in the woman in cabin 10?,"the main cast includes keira knightley, guy pearce, david ajala, gitte witt, art malik.",,0.0,0.0,0.0
+when was the woman in cabin 10 released?,the woman in cabin 10 was released in 2025.,The woman was released in 2025.,0.41917424905767126,0.8,0.8
+recommend a movie like the woman in cabin 10.,"if you liked the woman in cabin 10, you might enjoy the life and times of judge roy bean, loss of balance, the seed of the sacred fig.",,0.0,0.0,0.0
+who directed primitive war?,primitive war was directed by luke sparke.,Primitive war was directed by joseph gonzlez.,0.3655552228545123,0.7142857142857143,0.7142857142857143
+who starred in primitive war?,"the main cast includes jeremy piven, tricia helfer, ryan kwanten, nick wechsler, anthony ingruber.",We're always looking for new ways to play the game.,0.011303552115363096,0.08,0.08
+when was primitive war released?,primitive war was released in 2025.,Primitive war was released in 2025.,0.8091067115702212,1.0,1.0
+recommend a movie like primitive war.,"if you liked primitive war, you might enjoy the man in my basement, the lychee road, hope.",,0.0,0.0,0.0
+who directed vicious?,vicious was directed by bryan bertino.,We directed merciless.,0.045131921809482646,0.2222222222222222,0.2222222222222222
+who starred in vicious?,"the main cast includes dakota fanning, kathryn hunter, mary mccormack, rachel blanchard, devyn nekoda.",,0.0,0.0,0.0
+when was vicious released?,vicious was released in 2025.,Domestic violence was released in 2025.,0.6147881529512643,0.7272727272727272,0.7272727272727272
+recommend a movie like vicious.,"if you liked vicious, you might enjoy i heard the bells, coconut head generation, sweetness in the belly.",,0.0,0.0,0.0
+who directed tron: ares?,tron: ares was directed by joachim rnning.,Tron was directed by joseph gonzlez.,0.13201355840223275,0.6153846153846153,0.6153846153846153
+who starred in tron: ares?,"the main cast includes jared leto, greta lee, evan peters, gillian anderson, jodie turner-smith.",,0.0,0.0,0.0
+when was tron: ares released?,tron: ares was released in 2025.,tron:- aresa: tran: weres was released in 2025.,0.33260249505555045,0.7142857142857143,0.7142857142857143
+recommend a movie like tron: ares.,"if you liked tron: ares, you might enjoy good boy, black phone 2, maintenance required.",,0.0,0.0,0.0
+who directed him?,him was directed by justin tipping.,Peter Bergman was directed by him.,0.18575057999133598,0.6666666666666666,0.5
+who starred in him?,"the main cast includes tyriq withers, marlon wayans, julia fox, tim heidecker, jim jefferies.","The main cast includes julia, jonathan, gabriel, evan, emily, hannah, harris, michael, matthew.",0.056586356745712406,0.3703703703703704,0.3703703703703704
+when was him released?,him was released in 2025.,He was released in 2025.,0.7598356856515925,0.8000000000000002,0.8000000000000002
+recommend a movie like him.,"if you liked him, you might enjoy screamboat, the smashing machine, samurai i: musashi miyamoto.",,0.0,0.0,0.0
+who directed prisoner of war?,prisoner of war was directed by louis mandylor.,We directed prisoners of battle.,0.03258798048281462,0.4615384615384615,0.3076923076923077
+who starred in prisoner of war?,"the main cast includes scott adkins, peter shinkoda, michael copon, donald cerrone, michael rene walton.",We're always looking for new ways to play the main cast.,0.04822722807732158,0.22222222222222224,0.22222222222222224
+when was prisoner of war released?,prisoner of war was released in 2025.,Henry Ford was released in 2025.,0.5329462628216854,0.6153846153846153,0.6153846153846153
+recommend a movie like prisoner of war.,"if you liked prisoner of war, you might enjoy adulthood, get fast, timber falls.",,0.0,0.0,0.0
+who directed kpop demon hunters?,kpop demon hunters was directed by chris appelhans.,"We directed the main cast includes jim, jonny, kim joseph, kelsey, michael, nick, nathan, peter.",0.009849349468888718,0.08695652173913045,0.08695652173913045
+who starred in kpop demon hunters?,"the main cast includes arden cho, may hong, ji-young yoo, ahn hyo-seop, yunjin kim.",We're definitely going to cast a lot of cast members.,0.011303552115363096,0.07407407407407407,0.07407407407407407
+when was kpop demon hunters released?,kpop demon hunters was released in 2025.,kpop demons hunters was released in 2025.,0.7071067811865475,1.0,1.0
+recommend a movie like kpop demon hunters.,"if you liked kpop demon hunters, you might enjoy how to train your dragon, the fantastic 4: first steps, elio.",,0.0,0.0,0.0
+who directed mantis?,mantis was directed by lee tae-sung.,mantis was directed by joseph gonzlez.,0.4347208719449914,0.6153846153846153,0.6153846153846153
+who starred in mantis?,"the main cast includes yim si-wan, park gyu-young, choi hyun-wook, bae gang-hee, hwang sung-bin.",,0.0,0.0,0.0
+when was mantis released?,mantis was released in 2025.,mantis was released in 2025.,1.0,1.0,1.0
+recommend a movie like mantis.,"if you liked mantis, you might enjoy play dirty, the man in my basement, stolen girl.",,0.0,0.0,0.0
+who directed mission: impossible - the final reckoning?,mission: impossible - the final reckoning was directed by christopher mcquarrie.,,0.0,0.0,0.0
+who starred in mission: impossible - the final reckoning?,"the main cast includes tom cruise, hayley atwell, ving rhames, simon pegg, esai morales.",,0.0,0.0,0.0
+when was mission: impossible - the final reckoning released?,mission: impossible - the final reckoning was released in 2025.,,0.0,0.0,0.0
+recommend a movie like mission: impossible - the final reckoning.,"if you liked mission: impossible - the final reckoning, you might enjoy f1, fountain of youth, opus.",,0.0,0.0,0.0
+who directed superman?,superman was directed by james gunn.,Superman was directed by james baxter.,0.4347208719449914,0.8333333333333334,0.8333333333333334
+who starred in superman?,"the main cast includes david corenswet, rachel brosnahan, nicholas hoult, edi gathegi, nathan fillion.","The main cast includes julia gonzlez, jonathan giddings, gabriel guevara, michael gomez, marta gorgonzales.",0.06439931429457921,0.2857142857142857,0.2857142857142857
+when was superman released?,superman was released in 2025.,Superman was released in 2025.,0.7598356856515925,1.0,1.0
+recommend a movie like superman.,"if you liked superman, you might enjoy the fantastic 4: first steps, jurassic world rebirth, mission: impossible - the final reckoning.",,0.0,0.0,0.0
+who directed fight another day?,fight another day was directed by james mark.,,0.0,0.0,0.0
+who starred in fight another day?,"the main cast includes jim belushi, martin kove, eric johnson, ennis esmer, chuck liddell.",,0.0,0.0,0.0
+when was fight another day released?,fight another day was released in 2024.,,0.0,0.0,0.0
+recommend a movie like fight another day.,"if you liked fight another day, you might enjoy the boys in the boat, before i disappear, cinderella's revenge.",,0.0,0.0,0.0
+who directed valiant one?,valiant one was directed by steve barnett.,We directed brave one.,0.03880684294761699,0.36363636363636365,0.18181818181818182
+who starred in valiant one?,"the main cast includes chase stokes, lana condor, desmin borges, callan mulvey, diana tsoy.",,0.0,0.0,0.0
+when was valiant one released?,valiant one was released in 2025.,valiantone was released in 2025.,0.6431870218238024,0.7272727272727272,0.7272727272727272
+recommend a movie like valiant one.,"if you liked valiant one, you might enjoy driving madeleine, primitive war, the unbreakable boy.",,0.0,0.0,0.0
+who directed caramelo?,caramelo was directed by diego freitas.,Carolo was directed by michael lee.,0.17567205239427922,0.5,0.5
+who starred in caramelo?,"the main cast includes rafael vitti, amendoim, arianne botelho, kelzy ecard, bruno vinicius.",,0.0,0.0,0.0
+when was caramelo released?,caramelo was released in 2025.,: caramelos was released in 2025.,0.6147881529512643,1.0,1.0
+recommend a movie like caramelo.,"if you liked caramelo, you might enjoy touch of evil, hakkenden, the batman.",,0.0,0.0,0.0
+who directed stay?,stay was directed by jas summers.,was directed by joseph gonzlez.,0.1837868600016897,0.5454545454545454,0.5454545454545454
+who starred in stay?,"the main cast includes megalyn echikunwoke, mo mcrae, brandon firla, dominic stephens, patrick cloud.",,0.0,0.0,0.0
+when was stay released?,stay was released in 2025.,stay was released in 2025.,1.0,1.0,1.0
+recommend a movie like stay.,"if you liked stay, you might enjoy killing faith, opus, ride away.",,0.0,0.0,0.0
+who directed maintenance required?,maintenance required was directed by lacey uhlemeyer.,"Our main cast includes julia gonzlez, jonathan hanks, gabriel guevara, michael gomez, marta gorgonzon.",0.010182425646195498,0.0,0.0
+who starred in maintenance required?,"the main cast includes madelaine petsch, jacob scipio, katy o'brian, madison bailey, matteo lane.",We're always looking for new people to play with.,0.009108946940221201,0.0,0.0
+when was maintenance required released?,maintenance required was released in 2025.,We released maintenance requirement released in 2025.,0.3655552228545123,0.7692307692307692,0.7692307692307692
+recommend a movie like maintenance required.,"if you liked maintenance required, you might enjoy him, tron: ares, spinal tap ii: the end continues.",,0.0,0.0,0.0
+who directed xxx?,xxx was directed by rob cohen.,,0.0,0.0,0.0
